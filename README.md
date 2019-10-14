@@ -19,24 +19,25 @@ No known bugs so far
 
 ## Technologies used
 astroid==1.6.1
-click==6.7
+click==7.0
 colorama==0.3.9
-dominate==2.3.1
-Flask==0.12.2
+dominate==2.4.0
+Flask==1.1.1
 Flask-Bootstrap==3.3.7.1
 Flask-Script==2.0.6
 gunicorn==19.7.1
-isort==4.2.15
-itsdangerous==0.24
-Jinja2==2.10
-lazy-object-proxy==1.3.1
-MarkupSafe==1.0
+isort==4.3.21
+itsdangerous==1.1.0
+Jinja2==2.10.3
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
 mccabe==0.6.1
-pylint==1.8.2
-six==1.11.0
+pylint==2.4.2
+six==1.12.0
+typed-ast==1.4.0
 visitor==0.1.3
-Werkzeug==0.14.1
-wrapt==1.10.11
+Werkzeug==0.16.0
+wrapt==1.11.2
 
 ## Support and contact details
 Email Address: okothfaith94@gmail.com
